@@ -1,0 +1,58 @@
+{
+  "events":[
+    {
+      "event": "Metallica Concert",
+      "place": "Palace Grounds",
+      "entry": "paid",
+      "img_url": "https://imgs.nestimg.com/3_bedroom_terraced_house_for_sale_112447393629556873.jpg",
+    },
+    {
+      "event": "Saree Exhibition",
+      "place": "Malleswaram Grounds",
+      "entry": "free",
+      "img_url": "https://imgs.nestimg.com/3_bedroom_apartment_for_sale_112200074308043565.jpg",
+    },
+    {
+      "event": "Wine tasting",
+      "place": "Links Brewery",
+      "entry": "paid",
+      "img_url": "https://imgs.nestimg.com/1_bedroom_flat_for_sale_112447393757889901.jpg",
+    },
+    {
+      "event": "Startups Meet",
+      "place": "Kanteerava Indoor Stadium",
+      "entry": "paid",
+      "img_url": "https://imgs.nestimg.com/1_bedroom_house_for_sale_112447394428516817.jpg",
+    },
+    {
+      "event": "Rock and Roll nights",
+      "place": "Sarjapur Road",
+      "entry": "paid",
+      "img_url": "https://imgs.nestimg.com/4_bedroom_penthouse_for_sale_112200108481448363.jpg",
+    },
+    {
+      "event": "Barbecue Fridays",
+      "place": "Whitefield",
+      "entry": "paid",
+      "img_url": "https://imgs.nestimg.com/2_bedroom_apartment_for_sale_112200121913439352.jpg",
+    },
+    {
+      "event": "Summer workshop",
+      "place": "Indiranagar",
+      "entry": "free",
+      "img_url": "https://imgs.nestimg.com/1_bedroom_character_property_for_sale_112095023797824677.jpg",
+    },
+    {
+      "event": "Impressions & Expressions",
+      "place": "MG Road",
+      "entry": "free",
+      "img_url": "https://imgs.nestimg.com/3_bedroom_maisonette_for_sale_112076542113522119.jpg",
+    },
+    {
+      "event": "Italian carnival",
+      "place": "Electronic City",
+      "entry": "free",
+      "img_url": "https://imgs.nestimg.com/2_bedroom_property_for_sale_112447394086896074.jpg",
+    }
+  ]
+}
